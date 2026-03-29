@@ -1,0 +1,35 @@
+{
+  "name": "toque-humano",
+  "version": "1.0.0",
+  "description": "Una skill de Claude Code que elimina signos de texto generado por IA, haciendo que el texto suene más natural y humano.",
+  "author": "Ale Tinto",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aletinto/toque-humano.git"
+  },
+  "keywords": [
+    "claude-code",
+    "skill",
+    "writing",
+    "ai-detection",
+    "humanize",
+    "spanish",
+    "content-editing"
+  ],
+  "skill": {
+    "name": "toque-humano",
+    "description": "Elimina patrones de escritura generada por IA, haciendo que el texto suene más natural y humano. Basado en Wikipedia's 'Signos de escritura de IA'",
+    "version": "1.0.0",
+    "author": "Ale Tinto",
+    "license": "MIT",
+    "allowedTools": [
+      "Read",
+      "Write",
+      "Edit",
+      "Grep",
+      "Glob",
+      "AskUserQuestion"
+    ]
+  }
+}
