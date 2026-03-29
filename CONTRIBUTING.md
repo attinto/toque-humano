@@ -48,6 +48,6 @@ Si encuentras un patrón de IA que no está documentado:
 
 ## Preguntas?
 
-Si tienes preguntas, abre un issue o contacta al mantenedor.
+Si tienes preguntas, abre un issue o contactame alejandro tinto en LinkedIn
 
 ¡Gracias por contribuir!
