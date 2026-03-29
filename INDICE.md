@@ -6,16 +6,16 @@ Tu guía para entender y usar Toque Humano.
 
 ## 🎯 Por Dónde Empezar
 
-### Opción A: Empezar YA (5 min)
-1. Lee [GUIA_RAPIDA.md](GUIA_RAPIDA.md)
-2. Abre Claude Code y escribe `/toque-humano`
-3. Pega tu texto
+### Opción A: Empezar YA (2 min)
+1. Abre Claude Code y escribe `/toque-humano`
+2. Pega tu texto para humanizar
+3. ¡Listo! Más detalles en [README.md](README.md)
 
 ### Opción B: Entender primero (30 min)
-1. Lee [README.md](README.md) - contexto general
-2. Hojea [EJEMPLOS.md](EJEMPLOS.md) - ver casos reales
+1. Lee [README.md](README.md) - contexto y 25 patrones listados
+2. Hojea [EJEMPLOS.md](EJEMPLOS.md) - ver 5 casos reales
 3. Usa la skill
-4. Lee [SKILL.md](SKILL.md) si quieres profundizar
+4. Lee [SKILL.md](SKILL.md) si quieres profundizar en todos los patrones
 
 ---
 
@@ -23,7 +23,6 @@ Tu guía para entender y usar Toque Humano.
 
 | Archivo | Qué es | Para quién | Tiempo |
 |---------|--------|-----------|--------|
-| **[GUIA_RAPIDA.md](GUIA_RAPIDA.md)** | 5 patrones más comunes + instalación | Nuevos usuarios | 5 min |
 | **[README.md](README.md)** | Descripción, uso, 25 patrones listados | Todos | 10 min |
 | **[SKILL.md](SKILL.md)** | Prompt completo con todos los patrones detallados | Gente curiosa | 30+ min |
 | **[EJEMPLOS.md](EJEMPLOS.md)** | 5 casos reales: email, blog, producto, biografía, reporte | Aprendices visuales | 20 min |
@@ -106,7 +105,7 @@ Luego en Claude Code:
 ## 💬 Preguntas Comunes
 
 **¿Cómo empiezo?**
-Lee [GUIA_RAPIDA.md](GUIA_RAPIDA.md) (5 minutos) y ya puedes usarla.
+Abre Claude Code, escribe `/toque-humano` y pega tu texto. Si quieres contexto, lee [README.md](README.md) primero (10 min).
 
 **¿Por qué mi texto se ve a IA?**
 Abre [SKILL.md](SKILL.md) y busca palabras que reconozcas.
