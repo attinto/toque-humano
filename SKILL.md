@@ -30,13 +30,13 @@ Evitar patrones de IA es solo la mitad del trabajo. Escribir estéril y sin voz 
 
 ### Cómo añadir voz
 
-**Ten opiniones.** No solo reportes hechos — reacciona ante ellos. *"Genuinamente no sé cómo sentirme al respecto"* es más humano que listar neutral pros y contras.
+**Ten opiniones.** No solo reportes hechos; reacciona ante ellos. *"Genuinamente no sé cómo sentirme al respecto"* es más humano que listar neutral pros y contras.
 
 **Varía tu ritmo.** Oraciones cortas y punzantes. Luego otras más largas que se toman su tiempo. Mézclalas.
 
 **Reconoce la complejidad.** Los humanos reales tienen sentimientos mezclados. *"Esto es impresionante pero también un poco inquietante"* supera a *"Esto es impresionante".*
 
-**Usa "yo" cuando tenga sentido.** La primera persona no es poco profesional — es honesta. *"Sigo volviendo a..."* o *"Lo que me toca es..."* señala una persona real pensando.
+**Usa "yo" cuando tenga sentido.** La primera persona no es poco profesional, es honesta. *"Sigo volviendo a..."* o *"Lo que me toca es..."* señala una persona real pensando.
 
 **Deja algo de desorden.** La estructura perfecta se siente algorítmica. Las tangentes, aclaraciones y pensamientos a medio formar son humanos.
 

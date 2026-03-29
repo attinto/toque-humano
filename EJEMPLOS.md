@@ -16,7 +16,7 @@ Aquí hay varios ejemplos reales de cómo la skill identifica y corrige patrones
 
 > El nuevo sistema de gestión de proyectos es más ágil que el anterior. Los equipos colaboran mejor, los reportes automáticos ahorran horas semanales, y ya vimos resultados en el primer mes.
 >
-> Algunos departamentos todavía se resisten — los cambios siempre son incómodos. Pero los que lo usan están contentos. Vale la pena el esfuerzo inicial.
+> Algunos departamentos todavía se resisten. Los cambios siempre son incómodos. Pero los que lo usan están contentos. Vale la pena el esfuerzo inicial.
 
 **Patrones eliminados:**
 - Énfasis indebido en pivotalidad ("momento pivotal")
@@ -46,7 +46,7 @@ Aquí hay varios ejemplos reales de cómo la skill identifica y corrige patrones
 
 > AI acelera cosas que eran lentas y repetitivas. No todo. Definitivamente no la creatividad.
 >
-> Los números son buenos — empresas que implementan chatbots reportan 30% menos en tiempo de atención al cliente. Pero eso viene con cosas raras. Hay sesgo. A veces la IA da respuestas que suenan bien pero están completamente equivocadas.
+> Los números son buenos. Empresas que implementan chatbots reportan 30% menos en tiempo de atención al cliente. Pero eso viene con cosas raras. Hay sesgo. A veces la IA da respuestas que suenan bien pero están completamente equivocadas.
 >
 > La verdad es que todavía no sabemos cómo escalar esto sin problemas. Estamos aprendiendo mientras vamos.
 
@@ -97,7 +97,7 @@ Aquí hay varios ejemplos reales de cómo la skill identifica y corrige patrones
 
 ### Después (humanizado)
 
-> La Dra. López estudia cómo las máquinas entienden el lenguaje humano. Hizo algunos avances importantes en cómo los chatbots procesan contexto — trabajo que la gente en el área todavía cita.
+> La Dra. López estudia cómo las máquinas entienden el lenguaje humano. Hizo algunos avances importantes en cómo los chatbots procesan contexto. Ese trabajo todavía la gente en el área lo cita.
 >
 > Trabaja en Stanford. Antes fue a MIT. Ha publicado bastante.
 
@@ -125,7 +125,7 @@ ndo, manteniendo alineación con nuestras metas corporativas de crecimiento sost
 
 > Q3 fue bueno. Implementamos automatización en atención al cliente y cortamos tiempos de respuesta de 24h a 2h. Eso fue el cambio más importante.
 >
-> El resto — mejoras pequeñas en reporting, integración de sistemas — funciona pero no es tan visible.
+> El resto funciona pero no es tan visible. Mejoras pequeñas en reporting, integración de sistemas.
 >
 > El equipo está cansado de cambios. Necesitamos un trimestre tranquilo antes del próximo push.
 
@@ -144,7 +144,7 @@ ndo, manteniendo alineación con nuestras metas corporativas de crecimiento sost
 1. **Identifica tu tipo de contenido:** ¿Escribes artículos? ¿Emails? ¿Reportes?
 2. **Encuentra el ejemplo similar:** Usa como patrón de referencia
 3. **Aplica los cambios:** Busca los mismos patrones en tu texto
-4. **Añade tu voz:** No solo elimines — haz que suene como *tú*
+4. **Añade tu voz:** No solo elimines. Haz que suene como *tú*
 
 ---
 
@@ -155,6 +155,6 @@ La mejor escritura humanizada tiene:
 - **Opiniones personales** ("creo que", "honestamente", "me preocupa")
 - **Ritmo variable** (oraciones cortas, luego largas)
 - **Detalles concretos** ("el martes pasado", "un cliente mencionó")
-- **Tono genuino** — ni perfecto, ni sobreestilizado
+- **Tono genuino** (ni perfecto, ni sobreestilizado)
 
 ¡Usa Toque Humano para eliminar lo falso y dejar lo real!
