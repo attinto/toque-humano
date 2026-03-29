@@ -1,154 +1,132 @@
-# Índice de Toque Humano
+# Índice y Navegación
 
-Tu guía para entender y usar esta skill.
-
-## 📖 Documentación Principal
-
-### Para empezar rápido
-- **[GUIA_RAPIDA.md](GUIA_RAPIDA.md)** — 30 segundos de instalación + 5 patrones más comunes
-- **[README.md](README.md)** — Descripción completa, instalación, 25 patrones resumidos
-
-### Para entender a fondo
-- **[SKILL.md](SKILL.md)** — El prompt completo con toda la metodología
-  - Personalidad y alma
-  - 25 patrones detallados con ejemplos
-  - Proceso paso a paso
-  - Formato de salida
-
-### Para ver ejemplos reales
-- **[EJEMPLOS.md](EJEMPLOS.md)** — 5 ejemplos completos (email, blog, producto, biografía, reporte)
+Tu guía para entender y usar Toque Humano.
 
 ---
 
-## 🛠️ Información Técnica
+## 🎯 Por Dónde Empezar
 
-- **[package.json](package.json)** — Metadatos de la skill
-- **[LICENSE](LICENSE)** — MIT License
-- **[CONTRIBUTING.md](CONTRIBUTING.md)** — Cómo contribuir
+### Opción A: Empezar YA (5 min)
+1. Lee [GUIA_RAPIDA.md](GUIA_RAPIDA.md)
+2. Abre Claude Code y escribe `/toque-humano`
+3. Pega tu texto
+
+### Opción B: Entender primero (30 min)
+1. Lee [README.md](README.md) - contexto general
+2. Hojea [EJEMPLOS.md](EJEMPLOS.md) - ver casos reales
+3. Usa la skill
+4. Lee [SKILL.md](SKILL.md) si quieres profundizar
 
 ---
 
-## 🚀 Instalación
+## 📚 Documentación Completa
+
+| Archivo | Qué es | Para quién | Tiempo |
+|---------|--------|-----------|--------|
+| **[GUIA_RAPIDA.md](GUIA_RAPIDA.md)** | 5 patrones más comunes + instalación | Nuevos usuarios | 5 min |
+| **[README.md](README.md)** | Descripción, uso, 25 patrones listados | Todos | 10 min |
+| **[SKILL.md](SKILL.md)** | Prompt completo con todos los patrones detallados | Gente curiosa | 30+ min |
+| **[EJEMPLOS.md](EJEMPLOS.md)** | 5 casos reales: email, blog, producto, biografía, reporte | Aprendices visuales | 20 min |
+| **[CONTRIBUTING.md](CONTRIBUTING.md)** | Cómo reportar bugs y contribuir | Colaboradores | 10 min |
+| **[package.json](package.json)** | Metadatos técnicos | Desarrolladores | 2 min |
+
+---
+
+## 🔍 Busca por Tipo de Contenido
+
+### Escribes emails corporativos
+→ [EJEMPLOS.md - Ejemplo 1](EJEMPLOS.md#ejemplo-1-email-corporativo-antesdespués)
+
+### Escribes artículos o blog posts
+→ [EJEMPLOS.md - Ejemplo 2](EJEMPLOS.md#ejemplo-2-artículo-de-blog-sobre-ai-antesdespués)
+
+### Escribes descripciones de productos
+→ [EJEMPLOS.md - Ejemplo 3](EJEMPLOS.md#ejemplo-3-descripción-de-producto-antesdespués)
+
+### Escribes textos académicos o biografías
+→ [EJEMPLOS.md - Ejemplo 4](EJEMPLOS.md#ejemplo-4-biografía-académica-antesdespués)
+
+### Escribes reportes ejecutivos
+→ [EJEMPLOS.md - Ejemplo 5](EJEMPLOS.md#ejemplo-5-reporte-ejecutivo-antesdespués)
+
+### Quieres la lista completa de 25 patrones
+→ [SKILL.md](SKILL.md) - secciones "PATRONES DE CONTENIDO", "PATRONES DE LENGUAJE", etc.
+
+### Quieres entender por qué un patrón es IA
+→ [SKILL.md](SKILL.md) - cada patrón tiene explicación del "por qué"
+
+### Necesitas ayuda/encontraste un bug
+→ [CONTRIBUTING.md](CONTRIBUTING.md) - cómo reportar
+
+---
+
+## 🧠 Los 25 Patrones Organizados
+
+### Grupo 1: Contenido (Patrones 1-6)
+Cómo los LLMs inflan significado, notabilidad y usan análisis superficial.
+
+**Más común en:** artículos, Wikipedia, biografías, reportes
+
+### Grupo 2: Lenguaje (Patrones 7-12)
+Cómo los LLMs hablan de forma no natural: vocabulario repetido, no usan "es", etc.
+
+**Más común en:** todo tipo de texto
+
+### Grupo 3: Estilo (Patrones 13-18)
+Problemas visuales: em dashes, negritas, emojis, mayúsculas raras.
+
+**Más común en:** comunicaciones corporativas, blogs
+
+### Grupo 4: Comunicación (Patrones 19-21)
+Artefactos claros de chatbot: "espero que te ayude", disclaimers, tono falso.
+
+**Más común en:** respuestas de IA copiadas directamente
+
+### Grupo 5: Relleno (Patrones 22-25)
+Inflado y cautela excesiva.
+
+**Más común en:** emails, documentos formales
+
+---
+
+## 🚀 Instalación Rápida
 
 ```bash
 mkdir -p ~/.claude/skills
 git clone https://github.com/aletinto/toque-humano.git ~/.claude/skills/toque-humano
 ```
 
-O solo copia el archivo SKILL.md si ya clonaste:
-
-```bash
-mkdir -p ~/.claude/skills/toque-humano
-cp SKILL.md ~/.claude/skills/toque-humano/
-```
-
----
-
-## 💡 Cómo empezar
-
-### Opción 1: Usar la skill
-En Claude Code:
+Luego en Claude Code:
 ```
 /toque-humano
-
-[pega tu texto aquí]
-```
-
-### Opción 2: Pedir humanización directa
-```
-Por favor humaniza este texto: [tu texto]
 ```
 
 ---
 
-## 🎯 Navegación por tipo de contenido
-
-### Escribes emails
-→ Ver [EJEMPLOS.md - Ejemplo 1: Email corporativo](EJEMPLOS.md)
-
-### Escribes artículos de blog
-→ Ver [EJEMPLOS.md - Ejemplo 2: Artículo de blog](EJEMPLOS.md)
-
-### Escribes descripciones de productos
-→ Ver [EJEMPLOS.md - Ejemplo 3: Descripción de producto](EJEMPLOS.md)
-
-### Necesitas reportes profesionales
-→ Ver [EJEMPLOS.md - Ejemplo 5: Reporte ejecutivo](EJEMPLOS.md)
-
-### Quieres la lista completa de 25 patrones
-→ Ver [SKILL.md](SKILL.md)
-
-### Quieres aportar mejoras
-→ Ver [CONTRIBUTING.md](CONTRIBUTING.md)
-
----
-
-## 📚 Los 25 patrones explicados
-
-| # | Patrón | Detecta | Corrección |
-|----|--------|---------|-----------|
-| 1 | Inflación de significado | "pivotal", "testamento" | Simplifica el lenguaje |
-| 2 | Notabilidad name-dropping | Listas de medios sin contexto | Menciona casos específicos |
-| 3 | Análisis superficial -ando/-iendo | "simbolizando", "reflejando" | Elimina o concretiza |
-| 4 | Lenguaje promocional | "vibrante", "impresionante" | Neutral, descriptivo |
-| 5 | Atribuciones vagas | "expertos creen", "reportes indican" | Cita específicamente |
-| 6 | Secciones formulaicas | "A pesar de, continúa prosperando" | Hechos reales |
-| 7 | Vocabulario IA | Palabras repetidas (crucial, clave) | Vocabulario variado |
-| 8 | Evitación de cópula | "se erige como", "cuenta con" | Usa "es", "tiene" |
-| 9 | Paralelismos negativos | "No es solo X; es Y" | Afirma directamente |
-| 10 | Regla de tres | Siempre 3 items | Número natural |
-| 11 | Reciclaje de sinónimos | Mismo concepto con 4 palabras | Repite cuando sea claro |
-| 12 | Rangos falsos | "de A a B, de C a D" | Lista directamente |
-| 13 | Sobreuso de rayas largas (—) | Múltiples — en párrafo | Usa comas o puntos |
-| 14 | Negritas excesivas | **Muchas negritas** | Solo si es muy necesario |
-| 15 | Listas con encabezados | **Título:** descripción | Prosa natural |
-| 16 | Mayúsculas de título | Las Palabras Principales | Mayúscula normal |
-| 17 | Emojis | 🚀 💡 ✅ en el texto | Elimina |
-| 18 | Artefactos de chatbot | "Espero que esto te ayude" | Elimina completamente |
-| 19 | Disclaimers de corte | "Mis datos son hasta..." | Encuentra fuentes reales |
-| 20 | Tono sicarifante | "¡Tienes razón!" | Responde directamente |
-| 21 | Frases de relleno | "Con el propósito de" | Simplifica |
-| 22 | Exceso de cautela | "podría posiblemente" | "Puede" |
-| 23 | Conclusiones genéricas | "El futuro se ve brillante" | Datos específicos |
-| 24 | Comillas curvas | "texto" vs "texto" | Rectas |
-| 25 | Palabras con guión | "data-driven", "client-facing" | "data driven", "client facing" |
-
----
-
-## ❓ Preguntas frecuentes
+## 💬 Preguntas Comunes
 
 **¿Cómo empiezo?**
-→ Lee [GUIA_RAPIDA.md](GUIA_RAPIDA.md) (5 min)
+Lee [GUIA_RAPIDA.md](GUIA_RAPIDA.md) (5 minutos) y ya puedes usarla.
 
-**¿Por qué suena mi texto a IA?**
-→ Lee [SKILL.md](SKILL.md) sección "Patrones de contenido" (15 min)
+**¿Por qué mi texto se ve a IA?**
+Abre [SKILL.md](SKILL.md) y busca palabras que reconozcas.
 
-**¿Tengo un patrón que no está documentado?**
-→ Abre un issue o lee [CONTRIBUTING.md](CONTRIBUTING.md)
+**¿Puedo mejorar la skill?**
+Sí, lee [CONTRIBUTING.md](CONTRIBUTING.md).
 
-**¿Puedo usar esto para textos en otro idioma?**
-→ El SKILL.md está en español. Para otros idiomas necesitarías adaptar los ejemplos.
+**¿Funciona para otros idiomas?**
+No, está optimizada para español. Podrías adaptar [SKILL.md](SKILL.md) para otro idioma.
 
-**¿Debo eliminar toda mi personalidad?**
-→ No. La goal es *añadir* voz humana genuina, no eliminarla. Ver "Personalidad y Alma" en [SKILL.md](SKILL.md)
-
----
-
-## 🔗 Referencias externas
-
-- [Wikipedia: Signos de escritura de IA](https://en.wikipedia.org/wiki/Talk:Artificial_intelligence/Archive_8#Signs_of_AI_writing)
-- [WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_cleanup)
+**¿Es realmente efectiva?**
+Sí para textos largos (500+ palabras). Para textos cortos, menos confiable.
 
 ---
 
-## 📝 Licencia
+## 📖 Basada En
 
-MIT License — Eres libre de usar, modificar y distribuir. Ver [LICENSE](LICENSE)
+- [Wikipedia: Signos de escritura de IA](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_cleanup)
+- WikiProject AI Cleanup (miles de casos de IA en Wikipedia)
 
 ---
 
-**Versión:** 1.0.0  
-**Última actualización:** 2026-03-29  
-**Creador:** Ale Tinto  
-**Repositorio:** https://github.com/aletinto/toque-humano
-
+**Versión:** 1.0.0 | **Licencia:** MIT | **Autor:** Ale Tinto

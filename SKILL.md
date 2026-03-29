@@ -210,7 +210,7 @@ Evitar patrones de IA es solo la mitad del trabajo. Escribir estéril y sin voz 
 
 ## PATRONES DE ESTILO
 
-### 13. Sobreuso de rayas largas (—)
+### 13. Sobreuso de rayas largas (—) y dashes guiones
 
 **Problema:** Los LLMs usan em dashes (—) más que los humanos, imitando escritura "punzante" de ventas.
 
