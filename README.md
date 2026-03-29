@@ -6,7 +6,7 @@ Basada en la guía de Wikipedia "Signos de escritura de IA", mantenida por WikiP
 
 ---
 
-## 🚀 Instalación
+## Instalación
 
 ### Método recomendado (clonar)
 
