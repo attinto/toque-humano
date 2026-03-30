@@ -71,6 +71,3 @@ MIT License — Eres libre de usar, modificar y distribuir.
 
 **Versión:** 1.0.0 | **Autor:** Ale Tinto | **Última actualización:** 2026
 
----
-
-**¿Necesitas ayuda?** Lee [GUIA_RAPIDA.md](GUIA_RAPIDA.md) o consulta [INDICE.md](INDICE.md) para navegar.
