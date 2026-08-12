@@ -1,3 +1,5 @@
+
+
 # Toque Humano
 
 Una skill de Claude Code que elimina signos de escritura generada por IA, haciendo que el texto suene más natural y humano.
@@ -23,7 +25,7 @@ En Claude Code, invoca la skill:
 /toque-humano
 ```
 
-Pega tu texto para humanizar.
+Pega tu texto para humanizar, o adjunta un archivo o enlace (Word, Google Docs, Notion, etc.) para que la skill lo edite directamente.
 
 O pregunta directamente:
 
@@ -70,4 +72,3 @@ Por eso la escritura de IA se siente genérica, inflada y predecible. Toque Huma
 MIT License — Eres libre de usar, modificar y distribuir.
 
 **Versión:** 1.0.0 | **Autor:** Ale Tinto | **Última actualización:** 2026
-
